@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Flight Order</title>
+    <link rel="stylesheet" type="text/css" href="02-FlightOrder.css"/>
+</head>
+<body>
+<div id="wrapper">
+    <h1>FLIGHT ORDER</h1>
+    <form id="left" method="get">
+        <label>From</label><br/>
+        <select name="from" required="required">
+            <option selected="selected" disabled="disabled">Enter a city</option>
+            <option value="sf">Sofia</option>
+            <option value="vn">Varna</option>
+            <option value="br">Burgas</option>
+        </select><br/><br/>
+        <label>Departure Date</label><br/>
+        <input type="date" required="required" value="2014.09.06"/><br/>
+        <label>Return Date</label><br/>
+        <input type="date" required="required" value="2014.06.13"/><br/>
+        <label for="12+">12+</label>
+        <label for="2-12" id="number1">2-12</label>
+        <label for="0-2"  id="number2">0-2</label><br/>
+        <input id="12+" type="number" value="0"/>
+        <input id="2-12" type="number" value="0"/>
+        <input id="0-2" type="number" value="0"/>
+    </form>
+    <form id="right" method="get">
+        <label>To</label>
+        <select name="to" required="required">
+            <option selected="selected" disabled="disabled">Enter a city</option>
+            <option value="saab">Sofia</option>
+            <option value="mercedes">Varna</option>
+            <option value="audi">Burgas</option>
+        </select><br/>
+        <input type="checkbox" id="prefer"/>
+        <label id="rememberLabel"for="prefer">Prefer directs</label><br/>
+        <label>Time Interval</label><br/>
+        <input type="time" id="depratureStart" value="00:20"/>
+        <input type="time" id="depratureEnd" value="05:20"/><br/>
+        <label>Time Interval</label><br/>
+        <input type="time" id="returnStart" value="16:00"/>
+        <input type="time" id="returnEnd" value="22:00"/><br/>
+        <label for="class">Choose Class</label><br/>
+        <select name="class" required="required">
+            <option value="economy" selected="selected">Economy</option>
+            <option value="business">Business</option>
+        </select>
+        <input type="submit" value="Search"
+    </form>
+</div>
+</body>
+</html>

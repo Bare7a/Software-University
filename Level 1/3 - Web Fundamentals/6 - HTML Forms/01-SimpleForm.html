@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simple Form</title>
+    <link rel="stylesheet" type="text/css" href="01-SimpleForm.css"/>
+</head>
+<body>
+<h1>Enter the system</h1>
+<h3>Its necessary to login in Yor account in order to sign in for a course.</h3>
+<form method="get" id="register">
+    <h2>ARE YOU NEW? <a href="01-SimpleForm.html">REGISTER</a></h2>
+    <input type="text" id="usernameRegister" pattern="[a-z]+[a-z0-9]*" placeholder="User name" required="required"/><br/>
+    <input type="email" id="email" placeholder="Email" required="required"/><br/>
+    <input type="password" id="passwordCreate" placeholder="Password"  required="required"/><br/>
+    <input type="password" id="passwordConfirm" placeholder="Confirm Password"  required="required"/><br/>
+    <input type="submit" value="Register"/>
+</form>
+<form method="get" id="login">
+    <h2>ALREADY A STUDENT? LOGIN</h2>
+    <input type="text" id="username" pattern="[a-z]+[a-z0-9]*" placeholder="User name" required="required"/><br/>
+    <input type="password" id="password" placeholder="Password"  required="required"/><br/>
+    <input type="checkbox" id="remember"/>
+    <label id="rememberLabel"for="remember">Remember me?</label>
+    <input type="submit" value="Login"/><br/><br/>
+    <p id="forgotPassword"><a href="01-SimpleForm.html">Forgot Password?</a> </p>
+</form>
+</body>
+</html>

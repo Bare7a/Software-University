@@ -1,0 +1,16 @@
+<html>
+<head>
+    <title></title>
+    <script type="text/javascript">
+        function appendMessage() {
+            var newElement = document.createElement('p');
+            var newText = document.createTextNode('Some text');
+            newElement.appendChild(newText);
+            document.body.appendChild(newElement);
+        }
+    </script>
+</head>
+<body onload="appendMessage()">
+<div id="wrapper"></div>
+</body>
+</html>

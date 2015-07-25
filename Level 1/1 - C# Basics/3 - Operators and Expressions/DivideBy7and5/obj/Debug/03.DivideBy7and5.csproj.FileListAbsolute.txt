@@ -1,0 +1,5 @@
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\DivideBy7and5\bin\Debug\DivideBy7and5.exe.config
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\DivideBy7and5\bin\Debug\DivideBy7and5.exe
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\DivideBy7and5\bin\Debug\DivideBy7and5.pdb
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\DivideBy7and5\obj\Debug\DivideBy7and5.exe
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\DivideBy7and5\obj\Debug\DivideBy7and5.pdb

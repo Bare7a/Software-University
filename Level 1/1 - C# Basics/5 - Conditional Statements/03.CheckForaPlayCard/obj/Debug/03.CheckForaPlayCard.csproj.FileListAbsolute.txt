@@ -1,0 +1,6 @@
+c:\users\bare7a\documents\visual studio 2012\Projects\0x05.Homework\03.CheckForaPlayCard\bin\Debug\03.CheckForaPlayCard.exe.config
+c:\users\bare7a\documents\visual studio 2012\Projects\0x05.Homework\03.CheckForaPlayCard\bin\Debug\03.CheckForaPlayCard.exe
+c:\users\bare7a\documents\visual studio 2012\Projects\0x05.Homework\03.CheckForaPlayCard\bin\Debug\03.CheckForaPlayCard.pdb
+c:\users\bare7a\documents\visual studio 2012\Projects\0x05.Homework\03.CheckForaPlayCard\obj\Debug\03.CheckForaPlayCard.csprojResolveAssemblyReference.cache
+c:\users\bare7a\documents\visual studio 2012\Projects\0x05.Homework\03.CheckForaPlayCard\obj\Debug\03.CheckForaPlayCard.exe
+c:\users\bare7a\documents\visual studio 2012\Projects\0x05.Homework\03.CheckForaPlayCard\obj\Debug\03.CheckForaPlayCard.pdb

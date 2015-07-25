@@ -1,0 +1,6 @@
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x06.Homework\13.BinToDec\bin\Debug\13.BinToDec.exe.config
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x06.Homework\13.BinToDec\bin\Debug\13.BinToDec.exe
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x06.Homework\13.BinToDec\bin\Debug\13.BinToDec.pdb
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x06.Homework\13.BinToDec\obj\Debug\13.BinToDec.csprojResolveAssemblyReference.cache
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x06.Homework\13.BinToDec\obj\Debug\13.BinToDec.exe
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x06.Homework\13.BinToDec\obj\Debug\13.BinToDec.pdb

@@ -1,0 +1,5 @@
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\CheckABitAtPosition\bin\Release\CheckABitAtPosition.exe.config
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\CheckABitAtPosition\bin\Release\CheckABitAtPosition.exe
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\CheckABitAtPosition\bin\Release\CheckABitAtPosition.pdb
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\CheckABitAtPosition\obj\Release\CheckABitAtPosition.exe
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\CheckABitAtPosition\obj\Release\CheckABitAtPosition.pdb

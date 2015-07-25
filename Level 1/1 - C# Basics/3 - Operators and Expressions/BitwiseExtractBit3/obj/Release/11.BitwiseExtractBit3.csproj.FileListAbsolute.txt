@@ -1,0 +1,5 @@
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\BitwiseExtractBit3\bin\Release\BitwiseExtractBit3.exe.config
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\BitwiseExtractBit3\bin\Release\BitwiseExtractBit3.exe
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\BitwiseExtractBit3\bin\Release\BitwiseExtractBit3.pdb
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\BitwiseExtractBit3\obj\Release\BitwiseExtractBit3.exe
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\BitwiseExtractBit3\obj\Release\BitwiseExtractBit3.pdb

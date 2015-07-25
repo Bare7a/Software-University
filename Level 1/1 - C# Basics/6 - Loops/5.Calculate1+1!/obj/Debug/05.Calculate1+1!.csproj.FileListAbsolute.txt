@@ -1,0 +1,3 @@
+c:\users\bare7a\documents\visual studio 2012\Projects\0x06.Homework\5.Calculate1+1!\bin\Debug\5.Calculate1+1!.exe.config
+c:\users\bare7a\documents\visual studio 2012\Projects\0x06.Homework\5.Calculate1+1!\obj\Debug\5.Calculate1+1!.exe
+c:\users\bare7a\documents\visual studio 2012\Projects\0x06.Homework\5.Calculate1+1!\obj\Debug\5.Calculate1+1!.pdb

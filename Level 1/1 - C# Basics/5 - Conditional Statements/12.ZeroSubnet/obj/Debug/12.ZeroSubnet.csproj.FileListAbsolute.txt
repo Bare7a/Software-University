@@ -1,0 +1,6 @@
+c:\users\bare7a\documents\visual studio 2012\Projects\0x05.Homework\12.ZeroSubnet\bin\Debug\12.ZeroSubnet.exe.config
+c:\users\bare7a\documents\visual studio 2012\Projects\0x05.Homework\12.ZeroSubnet\bin\Debug\12.ZeroSubnet.exe
+c:\users\bare7a\documents\visual studio 2012\Projects\0x05.Homework\12.ZeroSubnet\bin\Debug\12.ZeroSubnet.pdb
+c:\users\bare7a\documents\visual studio 2012\Projects\0x05.Homework\12.ZeroSubnet\obj\Debug\12.ZeroSubnet.csprojResolveAssemblyReference.cache
+c:\users\bare7a\documents\visual studio 2012\Projects\0x05.Homework\12.ZeroSubnet\obj\Debug\12.ZeroSubnet.exe
+c:\users\bare7a\documents\visual studio 2012\Projects\0x05.Homework\12.ZeroSubnet\obj\Debug\12.ZeroSubnet.pdb

@@ -1,0 +1,208 @@
+body
+{
+    background-color: #6698ff;
+    font-family: cursive;
+    font-size: 0.95em;
+}
+
+#wrapper
+{
+    width: 800px;
+    margin: 0 auto;
+}
+
+nav:before
+{
+    height: 2px;
+    background: #000;
+    content: "";
+    display: block;
+    position: relative;
+    z-index: -1;
+    top: 1em;
+}
+
+header a
+{
+    color: white;
+    text-decoration: none;
+}
+
+header h1
+{
+    margin-bottom: 0.5em;
+}
+
+nav
+{
+    display: block;
+}
+
+nav ul
+{
+    float: right;
+    margin-top: 0;
+}
+
+nav li
+{
+    list-style: none;
+    background-color: white;
+    border: 1px solid black;
+    padding: 0.3em 1.0em;
+    margin-top: 0;
+    margin-right: 0.8em;
+    float: left;
+}
+
+nav a
+{
+    color: black;
+    text-decoration: none;
+}
+
+section
+{
+    display: inline-block;
+
+    width: 70%;
+}
+
+article
+{
+    color: black;
+    border: 1px solid black;
+    background-color: #e0eafe;
+    margin-bottom: 1em;
+    padding: 0 1em;
+}
+
+p
+{
+    font-size: 0.7em;
+}
+
+p:first-letter
+{
+    padding-left: 2em;
+}
+
+.news
+{
+    display: inline-block;
+    float: right;
+    width: 28%;
+    background-color: #e0eafe;
+    border: 1px solid black;
+}
+
+.news li
+{
+    list-style: none;
+    margin: 0 1em;
+}
+
+.news ul
+{
+    padding: 0;
+}
+
+.news a
+{
+    text-decoration: none;
+    color: black;
+    font-size: 0.9em;
+}
+
+.block
+{
+    padding-bottom: 1em;
+}
+
+footer
+{
+    display: inline-block;
+    width: 100%;
+    background-color: #e0eafe;
+    text-align: center;
+    border: 1px solid black;
+}
+
+footer h2
+{
+    font-size: 1em;
+    margin-bottom: 0.3em;
+}
+
+@media screen and (min-width: 780px) and (max-width: 960px)
+{
+
+}
+
+@media screen and (min-width: 640px) and (max-width: 780px)
+{
+    #wrapper
+    {
+        width: 100%;
+    }
+
+    section
+    {
+        width: 100%;
+    }
+
+    .news
+    {
+        float: left;
+        width: 100%;
+        background-color: #e0eafe;
+        border: 1px solid black;
+        margin-bottom: 1em;
+    }
+
+    .news li
+    {
+        display: table-cell;
+        padding: 0 1.8em;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 640px)
+{
+    header h1{
+        text-align: center;
+    }
+    nav ul
+    {
+        float: none;
+    }
+
+    nav li
+    {
+        display: block;
+        margin: 0 2em;
+        text-align: center;
+        float: none;
+    }
+
+    #wrapper
+    {
+        width: 100%;
+    }
+
+    section
+    {
+        width: 100%;
+    }
+
+    .news
+    {
+        float: left;
+        width: 100%;
+        background-color: #e0eafe;
+        border: 1px solid black;
+        margin-bottom: 1em;
+    }
+
+}

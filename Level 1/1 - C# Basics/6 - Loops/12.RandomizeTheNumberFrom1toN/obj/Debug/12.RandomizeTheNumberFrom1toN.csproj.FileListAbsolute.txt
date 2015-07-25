@@ -1,0 +1,6 @@
+c:\users\bare7a\documents\visual studio 2012\Projects\0x06.Homework\12.RandomizeTheNumberFrom1toN\bin\Debug\12.RandomizeTheNumberFrom1toN.exe.config
+c:\users\bare7a\documents\visual studio 2012\Projects\0x06.Homework\12.RandomizeTheNumberFrom1toN\bin\Debug\12.RandomizeTheNumberFrom1toN.exe
+c:\users\bare7a\documents\visual studio 2012\Projects\0x06.Homework\12.RandomizeTheNumberFrom1toN\bin\Debug\12.RandomizeTheNumberFrom1toN.pdb
+c:\users\bare7a\documents\visual studio 2012\Projects\0x06.Homework\12.RandomizeTheNumberFrom1toN\obj\Debug\12.RandomizeTheNumberFrom1toN.csprojResolveAssemblyReference.cache
+c:\users\bare7a\documents\visual studio 2012\Projects\0x06.Homework\12.RandomizeTheNumberFrom1toN\obj\Debug\12.RandomizeTheNumberFrom1toN.exe
+c:\users\bare7a\documents\visual studio 2012\Projects\0x06.Homework\12.RandomizeTheNumberFrom1toN\obj\Debug\12.RandomizeTheNumberFrom1toN.pdb

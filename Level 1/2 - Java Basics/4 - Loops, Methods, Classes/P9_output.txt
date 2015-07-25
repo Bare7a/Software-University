@@ -1,0 +1,7 @@
+beer 1.12
+apple 1.2
+water 1.2
+juice 2.5
+milk 2.8
+coffee 8.5
+vodka 18.7

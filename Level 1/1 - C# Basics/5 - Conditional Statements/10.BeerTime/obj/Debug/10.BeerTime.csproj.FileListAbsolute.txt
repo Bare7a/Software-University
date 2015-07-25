@@ -1,0 +1,6 @@
+c:\users\bare7a\documents\visual studio 2012\Projects\0x05.Homework\10.BeerTime\bin\Debug\10.BeerTime.exe.config
+c:\users\bare7a\documents\visual studio 2012\Projects\0x05.Homework\10.BeerTime\bin\Debug\10.BeerTime.exe
+c:\users\bare7a\documents\visual studio 2012\Projects\0x05.Homework\10.BeerTime\bin\Debug\10.BeerTime.pdb
+c:\users\bare7a\documents\visual studio 2012\Projects\0x05.Homework\10.BeerTime\obj\Debug\10.BeerTime.csprojResolveAssemblyReference.cache
+c:\users\bare7a\documents\visual studio 2012\Projects\0x05.Homework\10.BeerTime\obj\Debug\10.BeerTime.exe
+c:\users\bare7a\documents\visual studio 2012\Projects\0x05.Homework\10.BeerTime\obj\Debug\10.BeerTime.pdb

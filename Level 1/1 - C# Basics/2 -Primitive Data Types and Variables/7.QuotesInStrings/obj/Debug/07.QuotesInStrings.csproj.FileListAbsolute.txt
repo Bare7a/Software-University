@@ -1,0 +1,5 @@
+c:\users\bare7a\documents\visual studio 2012\Projects\0x02.Homework\7.QuotesInStrings\bin\Debug\7.QuotesInStrings.exe.config
+c:\users\bare7a\documents\visual studio 2012\Projects\0x02.Homework\7.QuotesInStrings\obj\Debug\7.QuotesInStrings.exe
+c:\users\bare7a\documents\visual studio 2012\Projects\0x02.Homework\7.QuotesInStrings\obj\Debug\7.QuotesInStrings.pdb
+c:\users\bare7a\documents\visual studio 2012\Projects\0x02.Homework\7.QuotesInStrings\bin\Debug\7.QuotesInStrings.exe
+c:\users\bare7a\documents\visual studio 2012\Projects\0x02.Homework\7.QuotesInStrings\bin\Debug\7.QuotesInStrings.pdb

@@ -1,0 +1,45 @@
+body{
+    font-family: sans-serif;
+}
+h1{
+    text-align: center;
+    font-size: 2em;
+    color: yellow;
+    padding-top: 0.5em;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 1.3em;
+}
+a:hover{
+    color: cyan;
+}
+main{
+    width: 400px;
+    margin: 0 auto;
+    border-radius: 0.7em;
+    background-color: black;
+}
+main>article{
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 1em;
+    padding-bottom: 1em;
+}
+nav>ul{
+    width: 8em;
+    margin-left: -2em;
+}
+nav>ul>li{
+    list-style: katakana;
+    list-style-position: inside;
+    padding: 0.5em;
+}
+nav>ul>li:hover{
+    border-radius: 0.3em;
+    background-color: green;
+}
+iframe{
+    border-color: yellow;
+}

@@ -1,0 +1,5 @@
+c:\users\bare7a\documents\visual studio 2012\Projects\0x02.Homework\05.BooleanVariable\bin\Debug\05.BooleanVariable.exe.config
+c:\users\bare7a\documents\visual studio 2012\Projects\0x02.Homework\05.BooleanVariable\bin\Debug\05.BooleanVariable.exe
+c:\users\bare7a\documents\visual studio 2012\Projects\0x02.Homework\05.BooleanVariable\bin\Debug\05.BooleanVariable.pdb
+c:\users\bare7a\documents\visual studio 2012\Projects\0x02.Homework\05.BooleanVariable\obj\Debug\05.BooleanVariable.exe
+c:\users\bare7a\documents\visual studio 2012\Projects\0x02.Homework\05.BooleanVariable\obj\Debug\05.BooleanVariable.pdb

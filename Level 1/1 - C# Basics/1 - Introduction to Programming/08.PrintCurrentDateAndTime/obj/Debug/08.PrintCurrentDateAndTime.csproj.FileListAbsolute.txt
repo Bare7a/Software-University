@@ -1,0 +1,6 @@
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\Solution1\08.PrintCurrentDateAndTime\bin\Debug\08.PrintCurrentDateAndTime.exe.config
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\Solution1\08.PrintCurrentDateAndTime\bin\Debug\08.PrintCurrentDateAndTime.exe
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\Solution1\08.PrintCurrentDateAndTime\bin\Debug\08.PrintCurrentDateAndTime.pdb
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\Solution1\08.PrintCurrentDateAndTime\obj\Debug\08.PrintCurrentDateAndTime.exe
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\Solution1\08.PrintCurrentDateAndTime\obj\Debug\08.PrintCurrentDateAndTime.pdb
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\Solution1\08.PrintCurrentDateAndTime\obj\Debug\08.PrintCurrentDateAndTime.csprojResolveAssemblyReference.cache

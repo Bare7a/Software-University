@@ -1,0 +1,5 @@
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\14.ModifyABitFromPosition\bin\Release\14.ModifyABitFromPosition.exe.config
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\14.ModifyABitFromPosition\bin\Release\14.ModifyABitFromPosition.exe
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\14.ModifyABitFromPosition\bin\Release\14.ModifyABitFromPosition.pdb
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\14.ModifyABitFromPosition\obj\Release\14.ModifyABitFromPosition.exe
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\14.ModifyABitFromPosition\obj\Release\14.ModifyABitFromPosition.pdb

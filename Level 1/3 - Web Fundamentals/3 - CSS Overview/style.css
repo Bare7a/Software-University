@@ -1,0 +1,129 @@
+body{
+    background-image: url("images/colorful_dots_on_black.jpg");
+    background-repeat: repeat;
+    font-family: sans-serif;
+}
+body > header {
+    background: linear-gradient(to right, #ff0300 33.33%, #007b08 33.34%, #007b08 66.67%, #1500fc 66.68%);
+    color: #ffff40;
+    line-height: 1.5em;
+    font-size: 3.5em;
+    text-align: center;
+    font-weight: bold;
+    margin-top: -8px;
+}
+aside, section {
+    display: block;
+    float: left;
+    position: absolute;
+}
+aside {
+    width: 260px;
+}
+section{
+    margin-left: 270px;
+    margin-right: 20px;
+}
+nav,article{
+    background-color: rgba(255, 255, 255, 0.75);
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+}
+nav>header{
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 1.3em;
+    padding-top: 6px;
+}
+nav>ul{
+    margin-left: -50px;
+    list-style-position: inside;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+a:visited{
+    color:gray;
+}
+footer>a{
+    font-style: italic;
+    text-decoration: underline;
+}
+nav>ul>li{
+    margin: 10px;
+    padding: 5px;
+    list-style-image: url('images/check.png');
+}
+
+nav>ul>li:hover{
+    border-radius: 5px;
+    padding: 5px;
+}
+nav>ul>li:hover:nth-child(1){
+    background-color: red;
+}
+nav>ul>li:hover:nth-child(2){
+    background-color: orange;
+}
+nav>ul>li:hover:nth-child(3){
+    background-color: yellow;
+}
+nav>ul>li:hover:nth-child(4){
+    background-color: green;
+}
+nav>ul>li:hover:nth-child(5){
+    background-color: blue;
+}
+nav>ul>li:hover:nth-child(6){
+    background-color: purple;
+}
+
+article>header{
+    padding-left: 8px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    border-radius: 10px;
+    margin: 5px;
+
+    font-size: 1.4em;
+}
+article>div{
+    padding: 10px;
+}
+article>div::first-line{
+    font-style: italic;
+}
+article>div::first-letter{
+    font-size: 3em;
+}
+
+#webColors{
+    color: white;
+    background-color: red;
+}
+
+#webSafeColors{
+    background-color: orange;
+}
+#RGB{
+    background-color:yellow;
+}
+#RGBA{
+    color: white;
+    background-color: green;
+}
+#\#HSLHSV{
+    color: white;
+    background-color: blue;
+}
+#\#lorem{
+    color: white;
+    background-color: purple;
+}
+:lang(la){
+    font-style:italic;
+    color: blue;
+}

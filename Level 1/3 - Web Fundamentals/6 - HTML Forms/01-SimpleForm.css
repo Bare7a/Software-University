@@ -1,0 +1,90 @@
+body
+{
+    background-color: #eeeeee;
+    font-family: cursive;
+}
+
+h1
+{
+    font-size: 1.6em;
+    color: #224465;
+}
+h2{
+    padding-left: 6px;
+    font-size: 1.2em;
+}
+h3{
+    font-weight: normal;
+    font-size: 1.1em;
+    color: #666666;
+}
+#register,#login{
+    display: inline-block;
+    vertical-align: top;
+    padding: 0px 10px 10px 10px;
+    width: 400px;
+    height: 300px;
+}
+
+#register > h2
+{
+    color: #666666;
+}
+
+#register > h2 > a
+{
+    text-decoration: none;
+    color: #224465;
+}
+input[type=text],input[type=password],input[type=password],input[type=email]{
+    width: 366px;
+    border-radius: 0px;
+    border: 1px solid #cccccc;
+    padding: 10px;
+    margin: 5px;
+}
+input[type=checkbox]
+{
+    margin-top: 10px;
+    margin-left: 8px;
+}
+p>a{
+    font-size: 0.8em;
+    font-weight: bold;
+    color: white;
+    float: right;
+    padding-right: 16px;
+}
+#rememberLabel{
+    color:white;
+    font-size: 0.9em;
+}
+#register > input[type=submit]
+{
+    float: right;
+    border: 2px solid #224465;
+    font-size: 1.3em;
+    width: 150px;
+    margin-right: 7px;
+    margin-top: 6px;
+    padding:3px;
+    color: #224465;
+}
+#login{
+    background-color: #224465;
+}
+#login>h2{
+    color: white;
+}
+#login > input[type=submit]
+{
+    float: right;
+    border: 2px solid #ff9c00;
+    color: white;
+    background-color: #224465;
+    font-size: 1.3em;
+    width: 150px;
+    margin-right: 7px;
+    margin-top: 6px;
+    padding:3px;
+}

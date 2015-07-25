@@ -1,0 +1,6 @@
+c:\users\bare7a\documents\visual studio 2012\Projects\0x05.Homework\11.NumberAsWords\bin\Debug\11.NumberAsWords.exe.config
+c:\users\bare7a\documents\visual studio 2012\Projects\0x05.Homework\11.NumberAsWords\obj\Debug\11.NumberAsWords.csprojResolveAssemblyReference.cache
+c:\users\bare7a\documents\visual studio 2012\Projects\0x05.Homework\11.NumberAsWords\bin\Debug\11.NumberAsWords.exe
+c:\users\bare7a\documents\visual studio 2012\Projects\0x05.Homework\11.NumberAsWords\bin\Debug\11.NumberAsWords.pdb
+c:\users\bare7a\documents\visual studio 2012\Projects\0x05.Homework\11.NumberAsWords\obj\Debug\11.NumberAsWords.exe
+c:\users\bare7a\documents\visual studio 2012\Projects\0x05.Homework\11.NumberAsWords\obj\Debug\11.NumberAsWords.pdb

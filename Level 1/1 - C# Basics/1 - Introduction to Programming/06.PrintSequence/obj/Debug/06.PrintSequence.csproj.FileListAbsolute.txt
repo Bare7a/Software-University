@@ -1,0 +1,5 @@
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\Solution1\06.PrintSequence\bin\Debug\06.PrintSequence.exe.config
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\Solution1\06.PrintSequence\bin\Debug\06.PrintSequence.exe
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\Solution1\06.PrintSequence\bin\Debug\06.PrintSequence.pdb
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\Solution1\06.PrintSequence\obj\Debug\06.PrintSequence.exe
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\Solution1\06.PrintSequence\obj\Debug\06.PrintSequence.pdb

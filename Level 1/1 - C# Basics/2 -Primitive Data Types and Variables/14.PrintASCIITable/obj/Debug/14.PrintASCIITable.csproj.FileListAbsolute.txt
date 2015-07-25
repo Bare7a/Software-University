@@ -1,0 +1,6 @@
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x02.Homework\14.PrintASCIITable\bin\Debug\14.PrintASCIITable.exe.config
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x02.Homework\14.PrintASCIITable\bin\Debug\14.PrintASCIITable.exe
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x02.Homework\14.PrintASCIITable\bin\Debug\14.PrintASCIITable.pdb
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x02.Homework\14.PrintASCIITable\obj\Debug\14.PrintASCIITable.csprojResolveAssemblyReference.cache
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x02.Homework\14.PrintASCIITable\obj\Debug\14.PrintASCIITable.exe
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x02.Homework\14.PrintASCIITable\obj\Debug\14.PrintASCIITable.pdb

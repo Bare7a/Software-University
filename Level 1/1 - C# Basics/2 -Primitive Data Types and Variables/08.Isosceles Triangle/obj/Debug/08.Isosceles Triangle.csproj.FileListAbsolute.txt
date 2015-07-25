@@ -1,0 +1,5 @@
+c:\users\bare7a\documents\visual studio 2012\Projects\0x02.Homework\08.Isosceles Triangle\bin\Debug\08.Isosceles Triangle.exe.config
+c:\users\bare7a\documents\visual studio 2012\Projects\0x02.Homework\08.Isosceles Triangle\bin\Debug\08.Isosceles Triangle.exe
+c:\users\bare7a\documents\visual studio 2012\Projects\0x02.Homework\08.Isosceles Triangle\bin\Debug\08.Isosceles Triangle.pdb
+c:\users\bare7a\documents\visual studio 2012\Projects\0x02.Homework\08.Isosceles Triangle\obj\Debug\08.Isosceles Triangle.exe
+c:\users\bare7a\documents\visual studio 2012\Projects\0x02.Homework\08.Isosceles Triangle\obj\Debug\08.Isosceles Triangle.pdb

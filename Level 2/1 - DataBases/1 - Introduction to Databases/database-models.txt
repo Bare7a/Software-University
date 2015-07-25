@@ -1,0 +1,42 @@
+	Type of database models:
+
+Hierarchical database model
+Network model
+Relational model
+Entity–relationship model
+Object model
+Document model
+Entity–attribute–value model
+Star schema
+Associative model
+Multidimensional model
+Multivalue model
+Semantic model
+XML database
+Named graph
+Triplestore
+
+	Druid
+
+Druid is a column-oriented open-source distributed data store written in Java. Druid is designed to quickly ingest massive quantities of time-series data, making that data immediately available to queries. This is sometimes referred to as real-time data.
+
+On the developer Q&A site Stackoverflow, Druid is described as "open-source infrastructure for real-time exploratory analytics on large datasets." It is designed to ingest time-series data, chunking and compressing that data into column-based queryable segments.
+
+ Architecture
+
+Architecture of the Druid cluster
+Fully deployed, Druid runs as a cluster of specialized nodes to support a fault-tolerant architecture where data is stored redundantly and there are multiple members of each node type. In addition, the cluster includes external dependencies for coordination (Apache ZooKeeper), storage of metadata (Mysql), and a deep storage facility (e.g., HDFS, Amazon S3, or Apache Cassandra).
+
+ Data Ingestion
+
+Data is ingested by Druid directly through its real-time nodes, or batch-loaded into historical nodes from a deep storage facility. Real-time nodes accept JSON-formatted data from a streaming datasource. Batch-loaded data formats can be JSON, CSV, or TSV. Real-time nodes temporarily store and serve data in real time, but eventually push the data to the deep storage facility, from which it is loaded into historical nodes. Historical nodes hold the bulk of data in the cluster.
+
+Real-time nodes chunk data into segments, and are designed to frequently move these segments out to deep storage. To maintain cluster awareness of the location of data, these nodes must interact with Mysql to update metadata about the segments, and with Apache ZooKeeper to monitor their transfer.
+
+ Query Management
+
+Client queries first hit broker nodes, which forward them to the appropriate data nodes (either historical or real-time). Since Druid segments may be partitioned, an incoming query can require data from multiple segments and partitions (or shards) stored on different nodes in the cluster. Brokers are able to learn which nodes have the required data, and also merge partial results before returning the aggregated result.
+
+ Cluster Management
+
+Operations relating to data management in historical nodes are overseen by coordinator nodes, which are the prime users of the Mysql metadata tables. Apache ZooKeeper is used to register all nodes, manage certain aspects of internode communications, and provide for leader elections.

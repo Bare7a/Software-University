@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML Form</title>
+    <link rel="stylesheet" type="text/css" href="03-StylingHTMLFrom.css"/>
+</head>
+<body>
+<main>
+    <form action="#" method="post" class="blue">
+        <h1>Step 1: Your details </h1>
+
+        <div>
+            <label>
+                <span>Name </span>
+                <input id="name" type="text" name="name" placeholder=" First and last name" required/>
+            </label>
+        </div>
+        <div>
+            <label>
+                <span>Email </span>
+                <input id="email" type="email" name="email" placeholder=" example@domain.com" required/>
+            </label>
+        </div>
+        <div>
+            <label>
+                <span>Phone </span>
+                <input id="phone" type="tel" name="phone" placeholder=" eg. +447500000000" required/>
+            </label>
+        </div>
+        <h1>Step 1: Delivery address </h1>
+
+        <div>
+            <label>
+                <span>Address </span>
+                <textarea name="address" id="address" required></textarea>
+            </label>
+        </div>
+        <div>
+            <label>
+                <span>Post code </span>
+                <input id="postcode" type="text" name="postcode" required/>
+            </label>
+        </div>
+        <div>
+            <label>
+                <span>Country </span>
+                <input id="country" type="text" name="country" required/>
+            </label>
+        </div>
+        <h1>Step 1: Details</h1>
+
+        <div>
+                <span>Card type</span><br/><br/>
+                <input type="radio" name="card" id="visa" value="visa" required>
+                <label for="visa" id="visacard">VISA</label>
+                <input type="radio" name="card" id="amex" value="amex" class="creditcard">
+                <label for="amex" id="amexcard">AmEx</label>
+                <input type="radio" name="card" id="mastercard" value="mastercard" class="creditcard">
+                <label for="mastercard" id="mastercard">MasterCard</label>
+        </div>
+        <div>
+            <label>
+                <span>Card number </span>
+                <input id="cardnumber" type="text" name="cardnumber" required/>
+            </label>
+        </div>
+        <div>
+            <label>
+                <span>Security code </span>
+                <input id="securitycode" type="text" name="securitycode" required/>
+            </label>
+        </div>
+        <div>
+            <label>
+                <span>Name on card </span>
+                <input id="namecard" type="text" name="namecard" placeholder="exact name as on the card" required/>
+            </label>
+        </div>
+        <input type="submit" value="BUY IT!">
+    </form>
+</main>
+</body>
+</html>

@@ -1,0 +1,52 @@
+body{
+    background-color: #ffc0cb;
+    font-family: cursive;
+}
+h1{
+    font-style: oblique;
+    text-align: center;
+    font-size: 2.5em;
+}
+input[type=date]{
+    width: 230px;
+}
+input[type=time]{
+    width: 108px;
+}
+input[type=number]
+{
+    width: 68px;
+}
+input[type=submit]
+{
+    width: 238px;
+    height: 40px;
+}
+select{
+    width: 238px;
+}
+#wrapper{
+    width: 500px;
+    margin: 0 auto;
+}
+
+form{
+    display: inline-block;
+    vertical-align: top;
+    width: 250px;
+}
+#left{
+    float: left;
+}
+#right{
+    float: right;
+}
+#number1{
+    margin-left:48px;
+}
+#number2{
+    margin-left: 38px;
+}
+label{
+    font-style: oblique;
+}

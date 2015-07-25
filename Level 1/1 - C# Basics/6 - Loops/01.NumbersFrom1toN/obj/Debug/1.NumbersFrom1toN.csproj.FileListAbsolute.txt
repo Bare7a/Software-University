@@ -1,0 +1,6 @@
+c:\users\bare7a\documents\visual studio 2012\Projects\0x06.Homework\0x06.Homework\bin\Debug\0x06.Homework.exe.config
+c:\users\bare7a\documents\visual studio 2012\Projects\0x06.Homework\0x06.Homework\bin\Debug\0x06.Homework.exe
+c:\users\bare7a\documents\visual studio 2012\Projects\0x06.Homework\0x06.Homework\bin\Debug\0x06.Homework.pdb
+c:\users\bare7a\documents\visual studio 2012\Projects\0x06.Homework\0x06.Homework\obj\Debug\1.NumbersFrom1toN.csprojResolveAssemblyReference.cache
+c:\users\bare7a\documents\visual studio 2012\Projects\0x06.Homework\0x06.Homework\obj\Debug\0x06.Homework.exe
+c:\users\bare7a\documents\visual studio 2012\Projects\0x06.Homework\0x06.Homework\obj\Debug\0x06.Homework.pdb

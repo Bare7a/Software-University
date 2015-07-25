@@ -1,0 +1,5 @@
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\Solution1\05.SquareRoot\bin\Debug\05.SquareRoot.exe.config
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\Solution1\05.SquareRoot\bin\Debug\05.SquareRoot.exe
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\Solution1\05.SquareRoot\bin\Debug\05.SquareRoot.pdb
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\Solution1\05.SquareRoot\obj\Debug\05.SquareRoot.exe
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\Solution1\05.SquareRoot\obj\Debug\05.SquareRoot.pdb

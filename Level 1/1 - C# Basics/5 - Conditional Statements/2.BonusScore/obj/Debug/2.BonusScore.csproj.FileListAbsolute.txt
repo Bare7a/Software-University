@@ -1,0 +1,5 @@
+c:\users\bare7a\documents\visual studio 2012\Projects\0x05.Homework\2.BonusScore\bin\Debug\2.BonusScore.exe.config
+c:\users\bare7a\documents\visual studio 2012\Projects\0x05.Homework\2.BonusScore\bin\Debug\2.BonusScore.exe
+c:\users\bare7a\documents\visual studio 2012\Projects\0x05.Homework\2.BonusScore\bin\Debug\2.BonusScore.pdb
+c:\users\bare7a\documents\visual studio 2012\Projects\0x05.Homework\2.BonusScore\obj\Debug\2.BonusScore.exe
+c:\users\bare7a\documents\visual studio 2012\Projects\0x05.Homework\2.BonusScore\obj\Debug\2.BonusScore.pdb

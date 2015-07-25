@@ -1,0 +1,6 @@
+c:\users\bare7a\documents\visual studio 2012\Projects\0x04.Homework\03.CircleAreaAndPerimeter\bin\Debug\03.CircleAreaAndPerimeter.exe.config
+c:\users\bare7a\documents\visual studio 2012\Projects\0x04.Homework\03.CircleAreaAndPerimeter\bin\Debug\03.CircleAreaAndPerimeter.exe
+c:\users\bare7a\documents\visual studio 2012\Projects\0x04.Homework\03.CircleAreaAndPerimeter\bin\Debug\03.CircleAreaAndPerimeter.pdb
+c:\users\bare7a\documents\visual studio 2012\Projects\0x04.Homework\03.CircleAreaAndPerimeter\obj\Debug\03.CircleAreaAndPerimeter.csprojResolveAssemblyReference.cache
+c:\users\bare7a\documents\visual studio 2012\Projects\0x04.Homework\03.CircleAreaAndPerimeter\obj\Debug\03.CircleAreaAndPerimeter.exe
+c:\users\bare7a\documents\visual studio 2012\Projects\0x04.Homework\03.CircleAreaAndPerimeter\obj\Debug\03.CircleAreaAndPerimeter.pdb

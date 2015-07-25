@@ -1,0 +1,5 @@
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\Solution1\04.PrintFirstAndLastName\bin\Debug\04.PrintFirstAndLastName.exe.config
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\Solution1\04.PrintFirstAndLastName\bin\Debug\04.PrintFirstAndLastName.exe
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\Solution1\04.PrintFirstAndLastName\bin\Debug\04.PrintFirstAndLastName.pdb
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\Solution1\04.PrintFirstAndLastName\obj\Debug\04.PrintFirstAndLastName.exe
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\Solution1\04.PrintFirstAndLastName\obj\Debug\04.PrintFirstAndLastName.pdb

@@ -1,0 +1,15 @@
+	What is T-SQL?
+	
+Transact-SQL (T-SQL) is Microsoft’s proprietary version of ANSI SQL for its SQL Server relational database. 
+
+Structured Query language (SQL) is the most widely-used relational database query language, and its standardized version -- designed by the American National Standards Institute (ANSI) -- is known as ANSI SQL. However, most vendors also implemented proprietary SQL versions with added features.
+
+T-SQL fully supports ANSI SQL and augments the language with several features, e.g., Control-of-Flow language, local variables and enhancements to the UPDATE and DELETE statements.
+
+Examples of control-of-flow language include the following:
+BEGIN and END keywords to mark a block of transactions.
+WAITFOR to wait for a certain event or time of day to run a transaction.
+RETURN to immediately return from a stored procedure or function.
+T-SQL is critical to SQL Server because each SQL Server database action actually sends the database a series of T-SQL statements. Performed actions are first translated into T-SQL statements, even when using the graphical interface.
+
+T-SQL statements may be run in the main access tool for SQL Server and SQL Server Management Studio (SSMS), or in sqlcmd, the dedicated command-line tool. This operation is similar to how the MS-DOS environment is used for running Windows OS commands.

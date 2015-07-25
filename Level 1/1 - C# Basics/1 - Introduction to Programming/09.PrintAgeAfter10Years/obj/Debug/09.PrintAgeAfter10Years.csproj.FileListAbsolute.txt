@@ -1,0 +1,6 @@
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\Solution1\09.PrintAgeAfter10Years\bin\Debug\09.PrintAgeAfter10Years.exe.config
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\Solution1\09.PrintAgeAfter10Years\bin\Debug\09.PrintAgeAfter10Years.exe
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\Solution1\09.PrintAgeAfter10Years\bin\Debug\09.PrintAgeAfter10Years.pdb
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\Solution1\09.PrintAgeAfter10Years\obj\Debug\09.PrintAgeAfter10Years.csprojResolveAssemblyReference.cache
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\Solution1\09.PrintAgeAfter10Years\obj\Debug\09.PrintAgeAfter10Years.exe
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\Solution1\09.PrintAgeAfter10Years\obj\Debug\09.PrintAgeAfter10Years.pdb

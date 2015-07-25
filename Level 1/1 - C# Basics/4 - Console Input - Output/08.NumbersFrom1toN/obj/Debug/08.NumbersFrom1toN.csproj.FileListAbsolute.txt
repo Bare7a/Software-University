@@ -1,0 +1,5 @@
+c:\users\bare7a\documents\visual studio 2012\Projects\0x04.Homework\08.NumbersFrom1toN\bin\Debug\08.NumbersFrom1toN.exe.config
+c:\users\bare7a\documents\visual studio 2012\Projects\0x04.Homework\08.NumbersFrom1toN\bin\Debug\08.NumbersFrom1toN.exe
+c:\users\bare7a\documents\visual studio 2012\Projects\0x04.Homework\08.NumbersFrom1toN\bin\Debug\08.NumbersFrom1toN.pdb
+c:\users\bare7a\documents\visual studio 2012\Projects\0x04.Homework\08.NumbersFrom1toN\obj\Debug\08.NumbersFrom1toN.exe
+c:\users\bare7a\documents\visual studio 2012\Projects\0x04.Homework\08.NumbersFrom1toN\obj\Debug\08.NumbersFrom1toN.pdb

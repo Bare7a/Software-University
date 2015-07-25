@@ -1,0 +1,5 @@
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\10.Poin InsideCircleAndOutsideOfRectangle\bin\Debug\10.Poin InsideCircleAndOutsideOfRectangle.exe.config
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\10.Poin InsideCircleAndOutsideOfRectangle\bin\Debug\10.Poin InsideCircleAndOutsideOfRectangle.exe
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\10.Poin InsideCircleAndOutsideOfRectangle\bin\Debug\10.Poin InsideCircleAndOutsideOfRectangle.pdb
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\10.Poin InsideCircleAndOutsideOfRectangle\obj\Debug\10.Poin InsideCircleAndOutsideOfRectangle.exe
+C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\10.Poin InsideCircleAndOutsideOfRectangle\obj\Debug\10.Poin InsideCircleAndOutsideOfRectangle.pdb

@@ -1,0 +1,5 @@
+c:\users\bare7a\documents\visual studio 2013\Projects\NewsSystem\NewsSystem.Models\bin\Debug\NewsSystem.Models.dll
+c:\users\bare7a\documents\visual studio 2013\Projects\NewsSystem\NewsSystem.Models\bin\Debug\NewsSystem.Models.pdb
+c:\users\bare7a\documents\visual studio 2013\Projects\NewsSystem\NewsSystem.Models\obj\Debug\NewsSystem.Models.csprojResolveAssemblyReference.cache
+c:\users\bare7a\documents\visual studio 2013\Projects\NewsSystem\NewsSystem.Models\obj\Debug\NewsSystem.Models.dll
+c:\users\bare7a\documents\visual studio 2013\Projects\NewsSystem\NewsSystem.Models\obj\Debug\NewsSystem.Models.pdb

@@ -1,0 +1,14 @@
+c:\users\bare7a\documents\visual studio 2013\Projects\NewsSystem\NewsSystem.ConsoleClient\bin\Debug\NewsSystem.ConsoleClient.exe.config
+c:\users\bare7a\documents\visual studio 2013\Projects\NewsSystem\NewsSystem.ConsoleClient\bin\Debug\NewsSystem.ConsoleClient.exe
+c:\users\bare7a\documents\visual studio 2013\Projects\NewsSystem\NewsSystem.ConsoleClient\bin\Debug\NewsSystem.ConsoleClient.pdb
+c:\users\bare7a\documents\visual studio 2013\Projects\NewsSystem\NewsSystem.ConsoleClient\bin\Debug\EntityFramework.dll
+c:\users\bare7a\documents\visual studio 2013\Projects\NewsSystem\NewsSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\bare7a\documents\visual studio 2013\Projects\NewsSystem\NewsSystem.ConsoleClient\bin\Debug\NewsSystem.Data.dll
+c:\users\bare7a\documents\visual studio 2013\Projects\NewsSystem\NewsSystem.ConsoleClient\bin\Debug\NewsSystem.Models.dll
+c:\users\bare7a\documents\visual studio 2013\Projects\NewsSystem\NewsSystem.ConsoleClient\bin\Debug\NewsSystem.Data.pdb
+c:\users\bare7a\documents\visual studio 2013\Projects\NewsSystem\NewsSystem.ConsoleClient\bin\Debug\NewsSystem.Models.pdb
+c:\users\bare7a\documents\visual studio 2013\Projects\NewsSystem\NewsSystem.ConsoleClient\bin\Debug\EntityFramework.xml
+c:\users\bare7a\documents\visual studio 2013\Projects\NewsSystem\NewsSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\bare7a\documents\visual studio 2013\Projects\NewsSystem\NewsSystem.ConsoleClient\obj\Debug\NewsSystem.ConsoleClient.csprojResolveAssemblyReference.cache
+c:\users\bare7a\documents\visual studio 2013\Projects\NewsSystem\NewsSystem.ConsoleClient\obj\Debug\NewsSystem.ConsoleClient.exe
+c:\users\bare7a\documents\visual studio 2013\Projects\NewsSystem\NewsSystem.ConsoleClient\obj\Debug\NewsSystem.ConsoleClient.pdb

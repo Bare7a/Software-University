@@ -1,0 +1,68 @@
+[
+  {
+    "Category": "Business",
+    "ProductsCount": 22,
+    "AvaragePrice": 814.807727,
+    "TotalRevenue": 17925.77
+  },
+  {
+    "Category": "Autoparts",
+    "ProductsCount": 21,
+    "AvaragePrice": 751.380000,
+    "TotalRevenue": 15778.98
+  },
+  {
+    "Category": "Electronics",
+    "ProductsCount": 20,
+    "AvaragePrice": 828.148000,
+    "TotalRevenue": 16562.96
+  },
+  {
+    "Category": "Weapons",
+    "ProductsCount": 20,
+    "AvaragePrice": 886.965000,
+    "TotalRevenue": 17739.30
+  },
+  {
+    "Category": "For Children",
+    "ProductsCount": 20,
+    "AvaragePrice": 765.586500,
+    "TotalRevenue": 15311.73
+  },
+  {
+    "Category": "Sports",
+    "ProductsCount": 19,
+    "AvaragePrice": 763.705789,
+    "TotalRevenue": 14510.41
+  },
+  {
+    "Category": "Garden",
+    "ProductsCount": 17,
+    "AvaragePrice": 789.678235,
+    "TotalRevenue": 13424.53
+  },
+  {
+    "Category": "Drugs",
+    "ProductsCount": 17,
+    "AvaragePrice": 660.114705,
+    "TotalRevenue": 11221.95
+  },
+  {
+    "Category": "Other",
+    "ProductsCount": 17,
+    "AvaragePrice": 776.914705,
+    "TotalRevenue": 13207.55
+  },
+  {
+    "Category": "Adult",
+    "ProductsCount": 14,
+    "AvaragePrice": 668.610000,
+    "TotalRevenue": 9360.54
+  },
+  {
+    "Category": "Fashion",
+    "ProductsCount": 13,
+    "AvaragePrice": 693.034615,
+    "TotalRevenue": 9009.45
+  }
+]

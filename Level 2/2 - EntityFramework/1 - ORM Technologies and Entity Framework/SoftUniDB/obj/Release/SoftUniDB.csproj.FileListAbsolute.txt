@@ -1,0 +1,10 @@
+c:\users\bare7a\documents\visual studio 2013\Projects\SoftUniDB\SoftUniDB\bin\Release\SoftUniDB.exe.config
+c:\users\bare7a\documents\visual studio 2013\Projects\SoftUniDB\SoftUniDB\bin\Release\SoftUniDB.exe
+c:\users\bare7a\documents\visual studio 2013\Projects\SoftUniDB\SoftUniDB\bin\Release\SoftUniDB.pdb
+c:\users\bare7a\documents\visual studio 2013\Projects\SoftUniDB\SoftUniDB\bin\Release\EntityFramework.dll
+c:\users\bare7a\documents\visual studio 2013\Projects\SoftUniDB\SoftUniDB\bin\Release\EntityFramework.SqlServer.dll
+c:\users\bare7a\documents\visual studio 2013\Projects\SoftUniDB\SoftUniDB\bin\Release\EntityFramework.xml
+c:\users\bare7a\documents\visual studio 2013\Projects\SoftUniDB\SoftUniDB\bin\Release\EntityFramework.SqlServer.xml
+c:\users\bare7a\documents\visual studio 2013\Projects\SoftUniDB\SoftUniDB\obj\Release\SoftUniDB.exe
+c:\users\bare7a\documents\visual studio 2013\Projects\SoftUniDB\SoftUniDB\obj\Release\SoftUniDB.pdb
+C:\Users\Bare7a\Documents\Visual Studio 2013\Projects\SoftUniDB\SoftUniDB\obj\Release\SoftUniDB.csprojResolveAssemblyReference.cache

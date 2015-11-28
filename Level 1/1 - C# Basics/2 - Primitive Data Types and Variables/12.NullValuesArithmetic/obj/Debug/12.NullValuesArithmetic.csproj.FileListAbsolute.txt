@@ -1,5 +1,0 @@
-c:\users\bare7a\documents\visual studio 2012\Projects\0x02.Homework\12.NullValuesArithmetic\bin\Debug\12.NullValuesArithmetic.exe.config
-c:\users\bare7a\documents\visual studio 2012\Projects\0x02.Homework\12.NullValuesArithmetic\bin\Debug\12.NullValuesArithmetic.exe
-c:\users\bare7a\documents\visual studio 2012\Projects\0x02.Homework\12.NullValuesArithmetic\bin\Debug\12.NullValuesArithmetic.pdb
-c:\users\bare7a\documents\visual studio 2012\Projects\0x02.Homework\12.NullValuesArithmetic\obj\Debug\12.NullValuesArithmetic.exe
-c:\users\bare7a\documents\visual studio 2012\Projects\0x02.Homework\12.NullValuesArithmetic\obj\Debug\12.NullValuesArithmetic.pdb

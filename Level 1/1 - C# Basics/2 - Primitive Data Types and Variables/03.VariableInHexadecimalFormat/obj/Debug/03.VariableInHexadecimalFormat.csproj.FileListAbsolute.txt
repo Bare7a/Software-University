@@ -1,6 +1,0 @@
-c:\users\bare7a\documents\visual studio 2012\Projects\0x02.Homework\03.VariableInHexadecimalFormat\bin\Debug\03.VariableInHexadecimalFormat.exe.config
-c:\users\bare7a\documents\visual studio 2012\Projects\0x02.Homework\03.VariableInHexadecimalFormat\bin\Debug\03.VariableInHexadecimalFormat.exe
-c:\users\bare7a\documents\visual studio 2012\Projects\0x02.Homework\03.VariableInHexadecimalFormat\bin\Debug\03.VariableInHexadecimalFormat.pdb
-c:\users\bare7a\documents\visual studio 2012\Projects\0x02.Homework\03.VariableInHexadecimalFormat\obj\Debug\03.VariableInHexadecimalFormat.exe
-c:\users\bare7a\documents\visual studio 2012\Projects\0x02.Homework\03.VariableInHexadecimalFormat\obj\Debug\03.VariableInHexadecimalFormat.pdb
-c:\users\bare7a\documents\visual studio 2012\Projects\0x02.Homework\03.VariableInHexadecimalFormat\obj\Debug\03.VariableInHexadecimalFormat.csprojResolveAssemblyReference.cache

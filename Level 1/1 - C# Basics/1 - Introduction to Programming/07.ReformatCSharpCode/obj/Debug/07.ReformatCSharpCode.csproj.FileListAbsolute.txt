@@ -1,5 +1,0 @@
-C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\Solution1\07.ReformatCSharpCode\bin\Debug\07.ReformatCSharpCode.exe.config
-C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\Solution1\07.ReformatCSharpCode\bin\Debug\07.ReformatCSharpCode.exe
-C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\Solution1\07.ReformatCSharpCode\bin\Debug\07.ReformatCSharpCode.pdb
-C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\Solution1\07.ReformatCSharpCode\obj\Debug\07.ReformatCSharpCode.exe
-C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\Solution1\07.ReformatCSharpCode\obj\Debug\07.ReformatCSharpCode.pdb

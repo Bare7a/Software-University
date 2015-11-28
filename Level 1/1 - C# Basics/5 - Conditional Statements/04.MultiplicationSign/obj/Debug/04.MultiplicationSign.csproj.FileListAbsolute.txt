@@ -1,5 +1,0 @@
-c:\users\bare7a\documents\visual studio 2012\Projects\0x05.Homework\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.exe.config
-c:\users\bare7a\documents\visual studio 2012\Projects\0x05.Homework\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.exe
-c:\users\bare7a\documents\visual studio 2012\Projects\0x05.Homework\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.pdb
-c:\users\bare7a\documents\visual studio 2012\Projects\0x05.Homework\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.exe
-c:\users\bare7a\documents\visual studio 2012\Projects\0x05.Homework\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.pdb

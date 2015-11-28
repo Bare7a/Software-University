@@ -1,5 +1,0 @@
-c:\users\bare7a\documents\visual studio 2012\Projects\0x05.Homework\05.TheBiggestOf5Numbers\bin\Debug\05.TheBiggestOf5Numbers.exe.config
-c:\users\bare7a\documents\visual studio 2012\Projects\0x05.Homework\05.TheBiggestOf5Numbers\bin\Debug\05.TheBiggestOf5Numbers.exe
-c:\users\bare7a\documents\visual studio 2012\Projects\0x05.Homework\05.TheBiggestOf5Numbers\bin\Debug\05.TheBiggestOf5Numbers.pdb
-c:\users\bare7a\documents\visual studio 2012\Projects\0x05.Homework\05.TheBiggestOf5Numbers\obj\Debug\05.TheBiggestOf5Numbers.exe
-c:\users\bare7a\documents\visual studio 2012\Projects\0x05.Homework\05.TheBiggestOf5Numbers\obj\Debug\05.TheBiggestOf5Numbers.pdb

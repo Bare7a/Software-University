@@ -1,5 +1,0 @@
-c:\users\bare7a\documents\visual studio 2012\Projects\0x05.Homework\08.DigitAsWord\bin\Debug\08.DigitAsWord.exe.config
-c:\users\bare7a\documents\visual studio 2012\Projects\0x05.Homework\08.DigitAsWord\bin\Debug\08.DigitAsWord.exe
-c:\users\bare7a\documents\visual studio 2012\Projects\0x05.Homework\08.DigitAsWord\bin\Debug\08.DigitAsWord.pdb
-c:\users\bare7a\documents\visual studio 2012\Projects\0x05.Homework\08.DigitAsWord\obj\Debug\08.DigitAsWord.exe
-c:\users\bare7a\documents\visual studio 2012\Projects\0x05.Homework\08.DigitAsWord\obj\Debug\08.DigitAsWord.pdb

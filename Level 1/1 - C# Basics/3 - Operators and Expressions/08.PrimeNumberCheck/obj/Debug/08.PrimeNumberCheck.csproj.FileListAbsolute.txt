@@ -1,5 +1,0 @@
-C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.exe.config
-C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.exe
-C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.pdb
-C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.exe
-C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.pdb

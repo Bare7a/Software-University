@@ -1,5 +1,0 @@
-c:\users\bare7a\documents\visual studio 2012\Projects\0x04.Homework\09.SumOfnNumbers\bin\Debug\09.SumOfnNumbers.exe.config
-c:\users\bare7a\documents\visual studio 2012\Projects\0x04.Homework\09.SumOfnNumbers\bin\Debug\09.SumOfnNumbers.exe
-c:\users\bare7a\documents\visual studio 2012\Projects\0x04.Homework\09.SumOfnNumbers\bin\Debug\09.SumOfnNumbers.pdb
-c:\users\bare7a\documents\visual studio 2012\Projects\0x04.Homework\09.SumOfnNumbers\obj\Debug\09.SumOfnNumbers.exe
-c:\users\bare7a\documents\visual studio 2012\Projects\0x04.Homework\09.SumOfnNumbers\obj\Debug\09.SumOfnNumbers.pdb

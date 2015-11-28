@@ -1,6 +1,0 @@
-c:\users\bare7a\documents\visual studio 2012\Projects\0x02.Homework\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe.config
-c:\users\bare7a\documents\visual studio 2012\Projects\0x02.Homework\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe
-c:\users\bare7a\documents\visual studio 2012\Projects\0x02.Homework\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.pdb
-c:\users\bare7a\documents\visual studio 2012\Projects\0x02.Homework\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.exe
-c:\users\bare7a\documents\visual studio 2012\Projects\0x02.Homework\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.pdb
-C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x02.Homework\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.csprojResolveAssemblyReference.cache

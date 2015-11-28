@@ -1,5 +1,0 @@
-C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\06.FourDigitNumber\bin\Debug\06.FourDigitNumber.exe.config
-C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\06.FourDigitNumber\bin\Debug\06.FourDigitNumber.exe
-C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\06.FourDigitNumber\bin\Debug\06.FourDigitNumber.pdb
-C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\06.FourDigitNumber\obj\Debug\06.FourDigitNumber.exe
-C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\06.FourDigitNumber\obj\Debug\06.FourDigitNumber.pdb

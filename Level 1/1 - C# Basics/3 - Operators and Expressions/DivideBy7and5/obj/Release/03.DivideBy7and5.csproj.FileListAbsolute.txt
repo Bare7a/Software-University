@@ -1,6 +1,0 @@
-C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\DivideBy7and5\bin\Release\DivideBy7and5.exe.config
-C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\DivideBy7and5\bin\Release\DivideBy7and5.exe
-C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\DivideBy7and5\bin\Release\DivideBy7and5.pdb
-C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\DivideBy7and5\obj\Release\03.DivideBy7and5.csprojResolveAssemblyReference.cache
-C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\DivideBy7and5\obj\Release\DivideBy7and5.exe
-C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\DivideBy7and5\obj\Release\DivideBy7and5.pdb

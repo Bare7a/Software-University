@@ -1,6 +1,0 @@
-C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\16.BitExchange\bin\Release\16.BitExchange.exe.config
-C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\16.BitExchange\bin\Release\16.BitExchange.exe
-C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\16.BitExchange\bin\Release\16.BitExchange.pdb
-C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\16.BitExchange\obj\Release\16.BitExchange.csprojResolveAssemblyReference.cache
-C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\16.BitExchange\obj\Release\16.BitExchange.exe
-C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\16.BitExchange\obj\Release\16.BitExchange.pdb

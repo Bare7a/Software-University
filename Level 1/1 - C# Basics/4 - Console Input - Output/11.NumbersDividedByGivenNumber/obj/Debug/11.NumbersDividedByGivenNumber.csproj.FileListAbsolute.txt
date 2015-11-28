@@ -1,5 +1,0 @@
-c:\users\bare7a\documents\visual studio 2012\Projects\0x04.Homework\11.NumbersDividedByGivenNumber\bin\Debug\11.NumbersDividedByGivenNumber.exe.config
-c:\users\bare7a\documents\visual studio 2012\Projects\0x04.Homework\11.NumbersDividedByGivenNumber\bin\Debug\11.NumbersDividedByGivenNumber.exe
-c:\users\bare7a\documents\visual studio 2012\Projects\0x04.Homework\11.NumbersDividedByGivenNumber\bin\Debug\11.NumbersDividedByGivenNumber.pdb
-c:\users\bare7a\documents\visual studio 2012\Projects\0x04.Homework\11.NumbersDividedByGivenNumber\obj\Debug\11.NumbersDividedByGivenNumber.exe
-c:\users\bare7a\documents\visual studio 2012\Projects\0x04.Homework\11.NumbersDividedByGivenNumber\obj\Debug\11.NumbersDividedByGivenNumber.pdb

@@ -1,5 +1,0 @@
-C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\07.PointInACircle\bin\Release\07.PointInACircle.exe.config
-C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\07.PointInACircle\bin\Release\07.PointInACircle.exe
-C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\07.PointInACircle\bin\Release\07.PointInACircle.pdb
-C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\07.PointInACircle\obj\Release\07.PointInACircle.exe
-C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x03.Homework\07.PointInACircle\obj\Release\07.PointInACircle.pdb

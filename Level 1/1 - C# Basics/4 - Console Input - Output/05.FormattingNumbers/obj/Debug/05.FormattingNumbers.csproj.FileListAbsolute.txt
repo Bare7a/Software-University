@@ -1,6 +1,0 @@
-c:\users\bare7a\documents\visual studio 2012\Projects\0x04.Homework\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.exe.config
-c:\users\bare7a\documents\visual studio 2012\Projects\0x04.Homework\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.exe
-c:\users\bare7a\documents\visual studio 2012\Projects\0x04.Homework\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.pdb
-c:\users\bare7a\documents\visual studio 2012\Projects\0x04.Homework\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.exe
-c:\users\bare7a\documents\visual studio 2012\Projects\0x04.Homework\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.pdb
-c:\users\bare7a\documents\visual studio 2012\Projects\0x04.Homework\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.csprojResolveAssemblyReference.cache

@@ -1,5 +1,0 @@
-c:\users\bare7a\documents\visual studio 2012\Projects\0x05.Homework\09.PlayWithIntDoubleString\bin\Debug\09.PlayWithIntDoubleString.exe.config
-c:\users\bare7a\documents\visual studio 2012\Projects\0x05.Homework\09.PlayWithIntDoubleString\bin\Debug\09.PlayWithIntDoubleString.exe
-c:\users\bare7a\documents\visual studio 2012\Projects\0x05.Homework\09.PlayWithIntDoubleString\bin\Debug\09.PlayWithIntDoubleString.pdb
-c:\users\bare7a\documents\visual studio 2012\Projects\0x05.Homework\09.PlayWithIntDoubleString\obj\Debug\09.PlayWithIntDoubleString.exe
-c:\users\bare7a\documents\visual studio 2012\Projects\0x05.Homework\09.PlayWithIntDoubleString\obj\Debug\09.PlayWithIntDoubleString.pdb

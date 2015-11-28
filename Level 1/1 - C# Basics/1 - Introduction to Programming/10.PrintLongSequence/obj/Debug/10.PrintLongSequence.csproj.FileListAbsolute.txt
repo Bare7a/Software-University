@@ -1,5 +1,0 @@
-C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\Solution1\10.PrintLongSequence\bin\Debug\10.PrintLongSequence.exe.config
-C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\Solution1\10.PrintLongSequence\bin\Debug\10.PrintLongSequence.exe
-C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\Solution1\10.PrintLongSequence\bin\Debug\10.PrintLongSequence.pdb
-C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\Solution1\10.PrintLongSequence\obj\Debug\10.PrintLongSequence.exe
-C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\Solution1\10.PrintLongSequence\obj\Debug\10.PrintLongSequence.pdb

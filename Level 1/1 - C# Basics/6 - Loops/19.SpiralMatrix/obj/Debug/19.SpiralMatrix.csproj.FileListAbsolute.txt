@@ -1,6 +1,0 @@
-C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x06.Homework\19.SpiralMatrix\bin\Debug\19.SpiralMatrix.exe.config
-C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x06.Homework\19.SpiralMatrix\bin\Debug\19.SpiralMatrix.exe
-C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x06.Homework\19.SpiralMatrix\bin\Debug\19.SpiralMatrix.pdb
-C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x06.Homework\19.SpiralMatrix\obj\Debug\19.SpiralMatrix.csprojResolveAssemblyReference.cache
-C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x06.Homework\19.SpiralMatrix\obj\Debug\19.SpiralMatrix.exe
-C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x06.Homework\19.SpiralMatrix\obj\Debug\19.SpiralMatrix.pdb

@@ -1,5 +1,0 @@
-c:\users\bare7a\documents\visual studio 2012\Projects\0x02.Homework\09.ExchangeVariableValues\bin\Debug\09.ExchangeVariableValues.exe.config
-c:\users\bare7a\documents\visual studio 2012\Projects\0x02.Homework\09.ExchangeVariableValues\bin\Debug\09.ExchangeVariableValues.exe
-c:\users\bare7a\documents\visual studio 2012\Projects\0x02.Homework\09.ExchangeVariableValues\bin\Debug\09.ExchangeVariableValues.pdb
-c:\users\bare7a\documents\visual studio 2012\Projects\0x02.Homework\09.ExchangeVariableValues\obj\Debug\09.ExchangeVariableValues.exe
-c:\users\bare7a\documents\visual studio 2012\Projects\0x02.Homework\09.ExchangeVariableValues\obj\Debug\09.ExchangeVariableValues.pdb

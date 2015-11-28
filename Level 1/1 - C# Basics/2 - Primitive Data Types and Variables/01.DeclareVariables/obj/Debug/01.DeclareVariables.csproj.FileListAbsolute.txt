@@ -1,6 +1,0 @@
-c:\users\bare7a\documents\visual studio 2012\Projects\0x02.Homework\01.DeclareVariables\bin\Debug\01.DeclareVariables.exe.config
-c:\users\bare7a\documents\visual studio 2012\Projects\0x02.Homework\01.DeclareVariables\obj\Debug\01.DeclareVariables.csprojResolveAssemblyReference.cache
-c:\users\bare7a\documents\visual studio 2012\Projects\0x02.Homework\01.DeclareVariables\bin\Debug\01.DeclareVariables.exe
-c:\users\bare7a\documents\visual studio 2012\Projects\0x02.Homework\01.DeclareVariables\bin\Debug\01.DeclareVariables.pdb
-c:\users\bare7a\documents\visual studio 2012\Projects\0x02.Homework\01.DeclareVariables\obj\Debug\01.DeclareVariables.exe
-c:\users\bare7a\documents\visual studio 2012\Projects\0x02.Homework\01.DeclareVariables\obj\Debug\01.DeclareVariables.pdb

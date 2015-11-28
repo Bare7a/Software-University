@@ -1,5 +1,0 @@
-c:\users\bare7a\documents\visual studio 2012\Projects\Solution1\02.PrintMyName\bin\Debug\02.PrintMyName.exe.config
-C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\Solution1\02.PrintMyName\bin\Debug\02.PrintMyName.exe
-C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\Solution1\02.PrintMyName\bin\Debug\02.PrintMyName.pdb
-C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\Solution1\02.PrintMyName\obj\Debug\02.PrintMyName.exe
-C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\Solution1\02.PrintMyName\obj\Debug\02.PrintMyName.pdb

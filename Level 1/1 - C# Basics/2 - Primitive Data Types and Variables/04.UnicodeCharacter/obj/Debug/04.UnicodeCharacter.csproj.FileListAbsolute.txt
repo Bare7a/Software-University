@@ -1,6 +1,0 @@
-c:\users\bare7a\documents\visual studio 2012\Projects\0x02.Homework\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.exe.config
-c:\users\bare7a\documents\visual studio 2012\Projects\0x02.Homework\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.exe
-c:\users\bare7a\documents\visual studio 2012\Projects\0x02.Homework\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.pdb
-c:\users\bare7a\documents\visual studio 2012\Projects\0x02.Homework\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.exe
-c:\users\bare7a\documents\visual studio 2012\Projects\0x02.Homework\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.pdb
-C:\Users\Bare7a\Documents\Visual Studio 2012\Projects\0x02.Homework\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.csprojResolveAssemblyReference.cache

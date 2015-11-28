@@ -1,5 +1,0 @@
-c:\users\bare7a\documents\visual studio 2012\Projects\0x03.Homework\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.exe.config
-c:\users\bare7a\documents\visual studio 2012\Projects\0x03.Homework\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.exe
-c:\users\bare7a\documents\visual studio 2012\Projects\0x03.Homework\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.pdb
-c:\users\bare7a\documents\visual studio 2012\Projects\0x03.Homework\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.exe
-c:\users\bare7a\documents\visual studio 2012\Projects\0x03.Homework\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.pdb

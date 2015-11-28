@@ -5,9 +5,9 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 - Shapes", "1 - Shapes\01 - Shapes.csproj", "{9C9EE1C8-FBB7-4D0B-940F-3A2857E19989}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 - BankOfKurtovoKonare", "2 - BankOfKurtovoKonare\02 - BankOfKurtovoKonare.csproj", "{B65767D4-3264-431A-9676-EF5355CC2A8D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 - Bank Of Kurtovo Konare", "2 - Bank Of Kurtovo Konare\02 - Bank Of Kurtovo Konare.csproj", "{B65767D4-3264-431A-9676-EF5355CC2A8D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 - GameEngine-TheSlum", "3 - GameEngine-TheSlum\03 - GameEngine-TheSlum.csproj", "{ABFA5864-EDA6-4F6D-A0E9-15C853F76B6C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 - Game Engine - The Slum", "3 - Game Engine - The Slum\03 - Game Engine - The Slum.csproj", "{ABFA5864-EDA6-4F6D-A0E9-15C853F76B6C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

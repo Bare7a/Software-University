@@ -8,12 +8,9 @@ namespace _2.Animals.Models
 {
     class Tomcat : Cat
     {
-        public Tomcat(string name, byte age, Gender gender) : base(name, age, gender)
+        public Tomcat(string name, byte age) : base(name, age, Gender.Male)
         {
-            if (gender != Gender.Male)
-            {
-                throw new ArgumentException("Tomcat must be male!");
-            }
+            
         }
 
         public override void ProduceSound()

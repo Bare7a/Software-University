@@ -26,12 +26,12 @@ namespace _2.Animals
             frogs.Add(new Frog("Pepinia",16, Gender.Female));
 
             List<Kitten> kittens = new List<Kitten>();
-            kittens.Add(new Kitten("Yuno", 14, Gender.Female));
-            kittens.Add(new Kitten("Shiro", 15, Gender.Female));
+            kittens.Add(new Kitten("Yuno", 14));
+            kittens.Add(new Kitten("Shiro", 15));
 
             List<Tomcat> tomcats = new List<Tomcat>();
-            tomcats.Add(new Tomcat("Tom",4,Gender.Male));
-            tomcats.Add(new Tomcat("Chinchin",7,Gender.Male));
+            tomcats.Add(new Tomcat("Tom",4));
+            tomcats.Add(new Tomcat("Chinchin",7));
 
             List<Animal> animals = new List<Animal>();
             animals.AddRange(cats);

@@ -1,5 +1,0 @@
-c:\users\bare7a\documents\visual studio 2013\Projects\StudentSystem\StudentSystem.Models\obj\Debug\StudentSystem.Models.csprojResolveAssemblyReference.cache
-c:\users\bare7a\documents\visual studio 2013\Projects\StudentSystem\StudentSystem.Models\bin\Debug\StudentSystem.Models.dll
-c:\users\bare7a\documents\visual studio 2013\Projects\StudentSystem\StudentSystem.Models\bin\Debug\StudentSystem.Models.pdb
-c:\users\bare7a\documents\visual studio 2013\Projects\StudentSystem\StudentSystem.Models\obj\Debug\StudentSystem.Models.dll
-c:\users\bare7a\documents\visual studio 2013\Projects\StudentSystem\StudentSystem.Models\obj\Debug\StudentSystem.Models.pdb

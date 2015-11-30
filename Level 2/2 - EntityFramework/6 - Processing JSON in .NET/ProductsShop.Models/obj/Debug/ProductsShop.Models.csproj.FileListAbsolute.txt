@@ -1,5 +1,0 @@
-c:\users\bare7a\documents\visual studio 2013\Projects\ProductsShop\ProductsShop.Models\bin\Debug\ProductsShop.Models.dll
-c:\users\bare7a\documents\visual studio 2013\Projects\ProductsShop\ProductsShop.Models\bin\Debug\ProductsShop.Models.pdb
-c:\users\bare7a\documents\visual studio 2013\Projects\ProductsShop\ProductsShop.Models\obj\Debug\ProductsShop.Models.csprojResolveAssemblyReference.cache
-c:\users\bare7a\documents\visual studio 2013\Projects\ProductsShop\ProductsShop.Models\obj\Debug\ProductsShop.Models.dll
-c:\users\bare7a\documents\visual studio 2013\Projects\ProductsShop\ProductsShop.Models\obj\Debug\ProductsShop.Models.pdb

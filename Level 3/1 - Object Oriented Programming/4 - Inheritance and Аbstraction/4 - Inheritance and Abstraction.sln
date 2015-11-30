@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1 - Human, Student and Worker", "1 - Human, Student and Worker\1 - Human, Student and Worker.csproj", "{4F10A7BE-5F50-4EA7-B890-619EA6772486}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.HumanStudentAndWorker", "1.HumanStudentAndWorker\1.HumanStudentAndWorker.csproj", "{4F10A7BE-5F50-4EA7-B890-619EA6772486}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2 - Animals", "2 - Animals\2 - Animals.csproj", "{4677EE63-E843-4608-94F7-AFA3702D3C42}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.Animals", "2.Animals\2.Animals.csproj", "{4677EE63-E843-4608-94F7-AFA3702D3C42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3 - Company Hierarchy", "3 - Company Hierarchy\3 - Company Hierarchy.csproj", "{970AEF15-DF34-480F-8B23-A7B5D49B178C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.CompanyHierarchy", "3.CompanyHierarchy\3.CompanyHierarchy.csproj", "{970AEF15-DF34-480F-8B23-A7B5D49B178C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

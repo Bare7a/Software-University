@@ -49,9 +49,9 @@
     <Compile Include="Storage.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\1 - Point3D\1 - Point3D.csproj">
+    <ProjectReference Include="..\1.Point3D\1.Point3D.csproj">
       <Project>{b77706b9-8baf-447b-b3b9-4351c6999c4d}</Project>
-      <Name>1 - Point3D</Name>
+      <Name>1.Point3D</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

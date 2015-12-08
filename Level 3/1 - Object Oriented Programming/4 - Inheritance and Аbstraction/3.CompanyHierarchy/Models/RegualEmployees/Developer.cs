@@ -1,13 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using _3.Company_Hierarchy.Interfaces;
-using _3.Company_Hierarchy.Models.Products;
-
-namespace _3.Company_Hierarchy.Models.RegualEmployees
+﻿namespace _3.Company_Hierarchy.Models.RegualEmployees
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+    using Interfaces;
+    using Products;
+
     public class Developer : RegualEmployee, IDeveloper
     {
         private ICollection<Project> projects { get; set; }

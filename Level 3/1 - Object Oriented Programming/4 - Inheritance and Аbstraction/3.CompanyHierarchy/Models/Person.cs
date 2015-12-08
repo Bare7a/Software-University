@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using _3.Company_Hierarchy.Interfaces;
-
-namespace _3.Company_Hierarchy.Models
+﻿namespace _3.Company_Hierarchy.Models
 {
+    using System;
+    using Interfaces;
+
     public abstract class Person : IPerson
     {
         private static int newId = 0;
@@ -63,7 +59,7 @@ namespace _3.Company_Hierarchy.Models
 
         public override string ToString()
         {
-            return $"{this.FirstName} {this.LastName}";
+            return String.Format("{0} {1}", this.FirstName, this.LastName);
         }
     }
 }

@@ -1,8 +1,8 @@
-﻿using System.Collections.Generic;
-using _3.Company_Hierarchy.Models;
-
-namespace _3.Company_Hierarchy.Interfaces
+﻿namespace _3.Company_Hierarchy.Interfaces
 {
+    using System.Collections.Generic;
+    using Models;
+
     public interface IManager
     {
         ICollection<RegualEmployee> RegualEmployees { get; set; }

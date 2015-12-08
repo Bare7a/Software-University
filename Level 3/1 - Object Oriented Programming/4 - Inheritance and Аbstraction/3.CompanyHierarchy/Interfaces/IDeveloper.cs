@@ -1,8 +1,8 @@
-﻿using System.Collections.Generic;
-using _3.Company_Hierarchy.Models.Products;
-
-namespace _3.Company_Hierarchy.Interfaces
+﻿namespace _3.Company_Hierarchy.Interfaces
 {
+    using System.Collections.Generic;
+    using Models.Products;
+
     public interface IDeveloper
     {
         ICollection<Project> Projects { get; set; }

@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _1.Human__Student_and_Worker.Models
+﻿namespace _1.Human__Student_and_Worker.Models
 {
+    using System;
+
     public abstract class Human
     {
         private string firstName;
@@ -53,7 +49,7 @@ namespace _1.Human__Student_and_Worker.Models
 
         public override string ToString()
         {
-            return $"{this.FirstName} {this.LastName}";
+            return String.Format("{0} {1}", this.FirstName, this.LastName);
         }
     }
 }

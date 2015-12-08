@@ -1,7 +1,7 @@
-﻿using System;
-
-namespace _3.Company_Hierarchy.Models.Products
+﻿namespace _3.Company_Hierarchy.Models.Products
 {
+    using System;
+
     public class Project
     {
         private string name;

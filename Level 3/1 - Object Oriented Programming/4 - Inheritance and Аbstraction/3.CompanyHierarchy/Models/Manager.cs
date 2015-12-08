@@ -1,12 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using _3.Company_Hierarchy.Interfaces;
+﻿
 
 namespace _3.Company_Hierarchy.Models
 {
+    using System.Collections.Generic;
+    using Interfaces;
+
     class Manager : Employee, IManager
     {
         private ICollection<RegualEmployee> regualEmployees { get; set; }

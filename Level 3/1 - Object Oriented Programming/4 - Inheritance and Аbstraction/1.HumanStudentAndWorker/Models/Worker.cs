@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _1.Human__Student_and_Worker.Models
+﻿namespace _1.Human__Student_and_Worker.Models
 {
+    using System;
+
     public class Worker : Human
     {
         private decimal weekSalary;
@@ -49,8 +45,7 @@ namespace _1.Human__Student_and_Worker.Models
 
         public override string ToString()
         {
-            return base.ToString() +
-                   $" | Money Per Hour: {Math.Round(this.MoneyPerHour(),2)}, Week Salary: {Math.Round(this.WeekSalary,2)}, Work Hours Per Day {this.WorkHoursPerDay}";
+            return base.ToString() + String.Format(" | Money Per Hour: {0}, Week Salary: {1}, Work Hours Per Day {2}", Math.Round(this.MoneyPerHour(), 2), Math.Round(this.WeekSalary, 2), this.WorkHoursPerDay);
         }
     }
 }

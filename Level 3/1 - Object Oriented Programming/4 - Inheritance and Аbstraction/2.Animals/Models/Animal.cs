@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using _2.Animals.Interfaces;
-
-namespace _2.Animals.Models
+﻿namespace _2.Animals.Models
 {
+    using System;
+    using Interfaces;
+
     public abstract class Animal : ISoundProducible
     {
         private string name;

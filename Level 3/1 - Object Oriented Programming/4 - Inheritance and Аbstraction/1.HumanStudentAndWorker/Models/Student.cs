@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _1.Human__Student_and_Worker.Models
+﻿namespace _1.Human__Student_and_Worker.Models
 {
+    using System;
+
     public class Student : Human
     {
         private long facultyNumber;

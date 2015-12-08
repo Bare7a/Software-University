@@ -15,21 +15,21 @@ namespace _02.BankOfKurtovoKonare
             Loan loanAccount = new Loan(Customer.Company, 20000, 4.5m);
             Mortage mortageAccount = new Mortage(Customer.Individual, 500, 8);
 
-            depositAccount.DepositMoney(800); // 1200 + 800
-            Console.WriteLine("Deposit account curent balance: " + depositAccount.Balance); // 2000
+            depositAccount.DepositMoney(800);
+            Console.WriteLine("Deposit account curent balance: {0:F2}", depositAccount.Balance);
 
-            loanAccount.DepositMoney(1000); // 20000 - 1000
-            Console.WriteLine("Loan account current balance: " + loanAccount.Balance); // 19000
+            loanAccount.DepositMoney(1000);
+            Console.WriteLine("Loan account current balance: {0:F2}", loanAccount.Balance);
 
-            mortageAccount.DepositMoney(200); // 500 - 200
-            Console.WriteLine("Mortage account current balance: " + mortageAccount.Balance); // 300
+            mortageAccount.DepositMoney(200);
+            Console.WriteLine("Mortage account current balance: {0:F2}", mortageAccount.Balance);
 
-            depositAccount.Widthdraw(600.50m); // 2000 - 600.50
-            Console.WriteLine("Deposit account current balance: " + depositAccount.Balance); // 1399.50
+            depositAccount.Widthdraw(600.50m);
+            Console.WriteLine("Deposit account current balance: {0:F2}", depositAccount.Balance);
 
-            Console.WriteLine("Deposit account interset for 7 months: " + depositAccount.CalculateInterest(7));
-            Console.WriteLine("Loan account interest for 3 months: " + loanAccount.CalculateInterest(2));
-            Console.WriteLine("Motage account interest for 7 months: " + mortageAccount.CalculateInterest(7));
+            Console.WriteLine("Deposit account interset for 7 months: {0:F2}", depositAccount.CalculateInterest(7));
+            Console.WriteLine("Loan account interest for 3 months: {0:F2}", loanAccount.CalculateInterest(2));
+            Console.WriteLine("Motage account interest for 7 months: {0:F2}", mortageAccount.CalculateInterest(7));
 
             Console.WriteLine();
             Console.WriteLine("Deposit account info: \n" + depositAccount);

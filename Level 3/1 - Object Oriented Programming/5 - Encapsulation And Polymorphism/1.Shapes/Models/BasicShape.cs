@@ -49,7 +49,7 @@ namespace _01.Shapes.Models
         public abstract double CalucaltePerimeter();
         public override string ToString()
         {
-            return $"Figure: {GetType().Name} Area = {Math.Round(CalculateArea(),2)} Perimeter= {Math.Round(CalucaltePerimeter(),2)}";
+            return String.Format("Figure: {0} | Area = {1}, Perimeter = {2}", GetType().Name, Math.Round(CalculateArea(), 2), Math.Round(CalucaltePerimeter(), 2));
         }
     }
 }

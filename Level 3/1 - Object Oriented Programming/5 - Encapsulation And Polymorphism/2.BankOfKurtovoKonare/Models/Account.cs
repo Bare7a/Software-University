@@ -57,7 +57,7 @@ namespace _02.BankOfKurtovoKonare.Models
 
         public override string ToString()
         {
-            return $"Type of customer: {this.Customer}, Balance: {this.Balance}, Interest rate: {(this.InterestRate*100):F2}%";
+            return String.Format("Type of customer: {0}, Balance: {1:F2}, Interest rate: {2:F2}", this.Customer, this.Balance, (this.InterestRate * 100));
         }
     }
 }

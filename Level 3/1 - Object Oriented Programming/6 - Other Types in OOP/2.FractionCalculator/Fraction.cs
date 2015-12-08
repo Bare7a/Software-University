@@ -1,6 +1,7 @@
 ﻿namespace _2.Fraction_Calculator
 {
     using System;
+    
     public struct Fraction
     {
         private long numerator { get; set; }

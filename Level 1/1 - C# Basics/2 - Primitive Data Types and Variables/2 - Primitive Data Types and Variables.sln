@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.BooleanVariable", "05.Bo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.StringsAndObjects", "06.StringsAndObjects\06.StringsAndObjects.csproj", "{785E863B-CB1C-4D9A-8F61-B66426BC4CAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.QuotesInStrings", "7.QuotesInStrings\07.QuotesInStrings.csproj", "{F33D8CE7-49FE-44C9-9D83-EE406E7CEB67}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.QuotesInStrings", "07.QuotesInStrings\07.QuotesInStrings.csproj", "{F33D8CE7-49FE-44C9-9D83-EE406E7CEB67}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.IsoscelesTriangle", "08.Isosceles Triangle\08.IsoscelesTriangle.csproj", "{67E0F499-92DC-4A51-B9BC-E06A1B5FE05D}"
 EndProject

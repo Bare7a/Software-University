@@ -20,6 +20,7 @@ namespace NumberAsWords
                 if (hundreds > 0)
                 {
                     result += NumbersAsWords(hundreds) + " Hundred";
+
                     if (decimals != 0 || digitals != 0)
                     {
                         result += " and ";
@@ -36,6 +37,7 @@ namespace NumberAsWords
                 else
                 {
                     result += NumbersAsWords(decimals * 10);
+
                     if (decimals != 0)
                     {
                         result += "-" + NumbersAsWords(digitals);
@@ -48,8 +50,6 @@ namespace NumberAsWords
             {
                 Console.WriteLine("Incorrect Input!");
             }
-
-
         }
 
         private static string NumbersAsWords(int number)
